@@ -29,4 +29,5 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
         assertEquals("Charles Dickens",quotes.get(1).getAuthor());
     }
+
 }

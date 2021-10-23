@@ -48,7 +48,7 @@ public class Quote {
     public String toString() {
         return "Quote{" +
 
-                ", author='" + author + '\'' +
+                " author='" + author + '\'' +
 
                 ", quote='" + text + '\'' +
                 '}';
